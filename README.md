@@ -1,5 +1,5 @@
 # Naive Bayes
-A machine learning classification algorithm implementing Naive Bayes.
+A machine learning classification algorithm model.
 
 # Implemented features
 - Bigrams & Stopwords. To gain more meaningful tokenized data.
